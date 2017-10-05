@@ -5,7 +5,7 @@ Android-Charts is an open-source android developing framework written in JAVA on
 Android-Charts includes a set of very useful graphs/charts you need for developing Android application.<br />
 
 ### Released Charts
-- `gird chart`
+- `grid chart`
 - `line chart`
 - `stick chart`
 - `candlestick chart`
